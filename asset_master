@@ -1,0 +1,98 @@
+[
+  {
+    "diameter": 150,
+    "name": "Summerland Drive",
+    "assetId": 23584,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 23584
+  },
+  {
+    "diameter": 200,
+    "name": "SEmperor Boulevard",
+    "assetId": 24000,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 24000
+  },
+  {
+    "diameter": 300,
+    "name": "Atwood Street",
+    "assetId": 12054,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 12054
+  },
+  {
+    "diameter": 150,
+    "name": "Summerland Drive",
+    "assetId": 23584,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 23584
+  },
+  {
+    "diameter": 225,
+    "name": "Marco Way",
+    "assetId": 23940,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 13940
+  },
+  {
+    "diameter": 225,
+    "name": "Marco Way",
+    "assetId": 23940,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 45673
+  },
+  {
+    "diameter": 225,
+    "name": "Marco Way",
+    "assetId": 23940,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 87654
+  },
+  {
+    "diameter": 225,
+    "name": "Daydream Circuit",
+    "assetId": 23940,
+    "structureScore": 5,
+    "serviceScore": 4,
+    "id": 76123
+  },
+  {
+    "diameter": 225,
+    "name": "Jarvis Street",
+    "assetId": 23940,
+    "structureScore": 4,
+    "serviceScore": 4,
+    "id": 98145
+  },
+  {
+    "diameter": 225,
+    "name": "Goode Lane",
+    "assetId": 23940,
+    "structureScore": 4,
+    "serviceScore": 3,
+    "id": 45623
+  },
+  {
+    "diameter": 225,
+    "name": "Carter Street",
+    "assetId": 23940,
+    "structureScore": 2,
+    "serviceScore": 1,
+    "id": 98345
+  },
+  {
+    "diameter": 225,
+    "name": "Dalrymple Road",
+    "assetId": 23940,
+    "structureScore": 5,
+    "serviceScore": 2,
+    "id": 65782
+  }
+]
